@@ -132,17 +132,6 @@ Data is loaded from a folder-based data repository (CSV / Excel files). :content
 ## 👤 Author & Credits
 
 - **Author:** Chirag Mittal 
-- **Credits / Inspiration:** PivotalStats’ end-to-end Power BI dashboard methodology :contentReference[oaicite:20]{index=20}  
+- **Credits / Inspiration:** PivotalStats’ end-to-end Power BI dashboard methodology
 
 ---
-
-## 🖼️ Screenshots / Visuals 
-
- 
-
-```md
-### Screenshots
-
-| Summary View | Detailed View |
-|--------------|----------------|
-| ![Summary Screenshot](./summary.png) | ![Detail Screenshot](./detail.png) |
