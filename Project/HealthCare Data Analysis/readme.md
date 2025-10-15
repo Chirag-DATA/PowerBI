@@ -136,13 +136,13 @@ Data is loaded from a folder-based data repository (CSV / Excel files). :content
 
 ---
 
-## 🖼️ Screenshots / Visuals (Optional)
+## 🖼️ Screenshots / Visuals 
 
-_You can insert placeholders for your dashboard screenshots so that your README is more visually appealing to visitors._  
+ 
 
 ```md
 ### Screenshots
 
 | Summary View | Detailed View |
 |--------------|----------------|
-| ![Summary Screenshot](./images/summary.png) | ![Detail Screenshot](./images/detail.png) |
+| ![Summary Screenshot](./summary.png) | ![Detail Screenshot](./detail.png) |
